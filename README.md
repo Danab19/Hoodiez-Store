@@ -16,6 +16,9 @@ The application includes several key functionalities:
 * **User Interface Controls (UI):**
   A variety of controls (buttons, text fields, dropdowns) are implemented to enable smooth interaction with the system.
 
+* **Database Integration:**
+  All user and transaction data is stored in a database for reliable and organized data management.
+
 * **Exception Handling:**
   `try-catch` blocks are used to catch and display error messages via `MessageBox`, helping guide users when something goes wrong.
 
@@ -46,6 +49,7 @@ The application includes several key functionalities:
 
 * C# / .NET Framework
 * Windows Forms
+* SQL Database
 * Visual Studio
 
 ---
@@ -57,7 +61,8 @@ To run the application:
 1. Clone the repository.
 2. Open the solution in Visual Studio.
 3. Restore NuGet packages if needed.
-4. Build and run the application.
+4. Set up the local database (instructions here if needed).
+5. Build and run the application.
 
 ---
 
