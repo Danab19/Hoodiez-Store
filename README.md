@@ -61,7 +61,7 @@ To run the application:
 1. Clone the repository.
 2. Open the solution in Visual Studio.
 3. Restore NuGet packages if needed.
-4. Set up the local database (instructions here if needed).
+4. Set up the local database.
 5. Build and run the application.
 
 ---
